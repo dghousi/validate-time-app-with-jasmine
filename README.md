@@ -1,4 +1,4 @@
-# co02c4d49980a5cbcc073343a
+# Validate time app with jasmine
 
 Quick start:
 
